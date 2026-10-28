@@ -1,1 +1,1 @@
-Main branch version
+Version 2 - Conflict resolved
